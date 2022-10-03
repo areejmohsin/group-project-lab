@@ -1,2 +1,1 @@
-# group-project-lab
-This is our group lab project.
+Our program takes a name input and another input that asks the user to solve a mathematical equation. Then, the program prints the user's name and their answer. This was created by Alex Coffman and Areej Mohsin.
